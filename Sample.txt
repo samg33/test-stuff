@@ -1,2 +1,4 @@
 This is a sample text file
 I have added more text to the sample file
+
+Hello today is sunny
